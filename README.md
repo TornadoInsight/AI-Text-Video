@@ -1,4 +1,4 @@
-# WebUI Restrictions Lifted! 🥳 Free WebUI is Back! 🔥 This repository is outdated and no longer receives updates. Please try https://github.com/cagliostrolab/forge-colab
+# WebUI Restrictions Lifted! 🥳 Free WebUI is Back! 🔥 This repository is outdated and no longer receives updates. 
 
 ## How to use DreamBooth & LoRA trainer ?
 ![Screenshot 2023-03-07 050440](https://user-images.githubusercontent.com/54370274/223300990-73645a89-2ef5-4d4e-94a2-633010779e3e.png)
