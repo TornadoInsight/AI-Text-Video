@@ -1,7 +1,3 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
-🥳 Please join my patreon community https://patreon.com/camenduru <br />
-
 # WebUI Restrictions Lifted! 🥳 Free WebUI is Back! 🔥 This repository is outdated and no longer receives updates. Please try https://github.com/cagliostrolab/forge-colab
 
 ## How to use DreamBooth & LoRA trainer ?
@@ -343,31 +339,6 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://civitai.com/models/4629/deep-negative-v1x](https://civitai.com/models/4629/deep-negative-v1x) (Thanks to FapMagi ❤) <br />
 [https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
 
-## Special Thanks
-Thanks to @slowargo ❤ (colab memmory fix) <br />
-Thanks to @thx-pw ❤ (colab memmory fix) <br />
-Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
-Thanks to @machiavel23 ❤ (community colab) <br />
-Thanks to @etherealxx ❤ (community colab) <br />
-Thanks to @nocrypt ❤ (community colab) <br />
-Thanks to @AIrabbit0 ❤ (community colab) <br />
-Thanks to @ark5mith ❤ (community colab) <br />
-Thanks to 7743 ❤ (community colab) <br />
-Thanks to @Hareshkumar77 ❤ (community colab) <br />
-Thanks to Hollowstrawberry ❤ (community colab) <br />
-Thanks to @jeguepowerr ❤ (latest news) <br />
-Thanks to @ebixbenis ❤ (latest news) <br />
-Thanks to @anuragrajput40904 ❤ (contributor) <br />
-Thanks to @tahaaydn ❤ (contributor) <br />
-Thanks to @HuiShingHon ❤ (contributor) <br />
-Thanks to @Siddhanta19 ❤ (contributor) <br />
-Thanks to @fumiama ❤ (contributor) <br />
-Thanks to @NUROISEA ❤ (contributor) <br />
-Thanks to @joegibes ❤ (contributor) <br />
-Thanks to @KoukatsuMahoutsukai ❤ (contributor) <br />
-Thanks to @zaedrys ❤ (contributor) <br />
-Thanks to @bdulive ❤ (contributor) <br />
-Thanks to chiraggg ❤ (suggestion of the dev test colab extensions) <br />
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
